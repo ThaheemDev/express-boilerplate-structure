@@ -1,11 +1,11 @@
 {
-  "name": "walmart-backoffice",
+  "name": "express-boilerplate-structure",
   "version": "1.0.0",
-  "description": "walmart-backoffice",
+  "description": "express-boilerplate-structure",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EmperiaLtd/walmart-backoffice.git"
+    "url": "https://github.com/arslanarjumand012/express-boilerplate-structure.git"
   },
   "scripts": {
     "build": "tsc",
